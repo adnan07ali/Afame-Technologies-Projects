@@ -23,5 +23,9 @@ Every point is performed wisely in Jupitor using Python libraries(Feel free to c
 * Eliminating Redundant Entries: Identified and eliminated duplicate entries to maintain data integrity and accuracy.
 * Sanitizing Specific Columns: Applied specialized treatments to certain columns, such as formatting adjustments or removal of sensitive information.
 * Handling NaN Values: Managed missing or NaN values within the dataset by either removing them or filling them with appropriate values.
-* Additional Changes: Made further adjustments to enhance the dataset's usability or meet specific analytical requirements.
+* Additional Changes: Made further adjustments to enhance the dataset's usability or meet specific analytical requirements
+
+Cleaned File is also added.
+
+All the Project points are performed efficeintly and effectively.
 
