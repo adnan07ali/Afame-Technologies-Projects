@@ -11,5 +11,5 @@
 * Visualizations is done using matplotlib and Seaborn.
 * Findings are present in notebook along with code
 
-Every point is performed wisely in Jupitor Notebook(Feel free to check in Jupitper Notebook)
+Every point is performed wisely in Jupitor using Python libraries(Feel free to check in Jupitper Notebook)
 
