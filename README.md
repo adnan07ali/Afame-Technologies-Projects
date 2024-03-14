@@ -1,4 +1,4 @@
-## Project Detailes - 
+## Project - Sales Analysis
 * total sales
 * analyze sales trends over time.
 * determine the best-selling products, and build visualizations.
